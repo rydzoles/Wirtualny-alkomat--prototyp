@@ -1,0 +1,104 @@
+C:\Users\jac\Documents\Visual Studio 2012\Projects\AspAlcoTestver.1.0\AspAlcoTestver.1.0\bin\AspAlcoTestver.1.0.dll
+C:\Users\jac\Documents\Visual Studio 2012\Projects\AspAlcoTestver.1.0\AspAlcoTestver.1.0\bin\AspAlcoTestver.1.0.pdb
+C:\Users\jac\Documents\Visual Studio 2012\Projects\AspAlcoTestver.1.0\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.dll
+C:\Users\jac\Documents\Visual Studio 2012\Projects\AspAlcoTestver.1.0\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.pdb
+C:\Users\jac\Documents\Visual Studio 2012\Projects\AspAlcoTestver.2.1\AspAlcoTestver.1.0\bin\AspAlcoTestver.1.0.dll
+C:\Users\jac\Documents\Visual Studio 2012\Projects\AspAlcoTestver.2.1\AspAlcoTestver.1.0\bin\AspAlcoTestver.1.0.pdb
+C:\Users\jac\Documents\Visual Studio 2012\Projects\AspAlcoTestver.2.1\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.dll
+C:\Users\jac\Documents\Visual Studio 2012\Projects\AspAlcoTestver.2.1\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.pdb
+C:\Users\jac\Documents\Visual Studio 2012\Projects\AspAlcoTestver.3.2\AspAlcoTestver.1.0\bin\AspAlcoTestver.1.0.dll
+C:\Users\jac\Documents\Visual Studio 2012\Projects\AspAlcoTestver.3.2\AspAlcoTestver.1.0\bin\AspAlcoTestver.1.0.pdb
+C:\Users\jac\Documents\Visual Studio 2012\Projects\AspAlcoTestver.3.2\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.dll
+C:\Users\jac\Documents\Visual Studio 2012\Projects\AspAlcoTestver.3.2\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.pdb
+D:\C#- Warsztaty\AlkoProjekt\AspAlcoTestver.4.3\AspAlcoTestver.1.0\bin\AspAlcoTestver.1.0.dll
+D:\C#- Warsztaty\AlkoProjekt\AspAlcoTestver.4.3\AspAlcoTestver.1.0\bin\AspAlcoTestver.1.0.pdb
+D:\C#- Warsztaty\AlkoProjekt\AspAlcoTestver.4.3\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.dll
+D:\C#- Warsztaty\AlkoProjekt\AspAlcoTestver.4.3\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.pdb
+C:\Users\jac\Documents\Visual Studio 2012\Projects\AspAlcoTestver.4.3 - Kopia\AspAlcoTestver.1.0\bin\AspAlcoTestver.1.0.dll
+C:\Users\jac\Documents\Visual Studio 2012\Projects\AspAlcoTestver.4.3 - Kopia\AspAlcoTestver.1.0\bin\AspAlcoTestver.1.0.pdb
+C:\Users\jac\Documents\Visual Studio 2012\Projects\AspAlcoTestver.4.3 - Kopia\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.dll
+C:\Users\jac\Documents\Visual Studio 2012\Projects\AspAlcoTestver.4.3 - Kopia\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.pdb
+C:\Users\jac\Documents\Visual Studio 2012\Projects\AspAlcoTestver.5.0\AspAlcoTestver.1.0\bin\AspAlcoTestver.1.0.dll
+C:\Users\jac\Documents\Visual Studio 2012\Projects\AspAlcoTestver.5.0\AspAlcoTestver.1.0\bin\AspAlcoTestver.1.0.pdb
+C:\Users\jac\Documents\Visual Studio 2012\Projects\AspAlcoTestver.5.0\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.dll
+C:\Users\jac\Documents\Visual Studio 2012\Projects\AspAlcoTestver.5.0\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.pdb
+D:\C#- Warsztaty\AlkoProjekt\AspAlcoTestver.5.0\AspAlcoTestver.1.0\bin\AspAlcoTestver.1.0.dll
+D:\C#- Warsztaty\AlkoProjekt\AspAlcoTestver.5.0\AspAlcoTestver.1.0\bin\AspAlcoTestver.1.0.pdb
+D:\C#- Warsztaty\AlkoProjekt\AspAlcoTestver.5.0\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.dll
+D:\C#- Warsztaty\AlkoProjekt\AspAlcoTestver.5.0\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.pdb
+D:\C#- Warsztaty\AlkoProjekt\AspAlcoTestver.5.0\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.csprojResolveAssemblyReference.cache
+C:\Users\jac\Documents\Visual Studio 2012\Projects\AspAlcoTestver.5.1.1\AspAlcoTestver.1.0\bin\AspAlcoTestver.1.0.dll
+C:\Users\jac\Documents\Visual Studio 2012\Projects\AspAlcoTestver.5.1.1\AspAlcoTestver.1.0\bin\AspAlcoTestver.1.0.pdb
+C:\Users\jac\Documents\Visual Studio 2012\Projects\AspAlcoTestver.5.1.1\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.dll
+C:\Users\jac\Documents\Visual Studio 2012\Projects\AspAlcoTestver.5.1.1\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.pdb
+D:\C#- Warsztaty\AlkoProjekt\AspAlcoTestver.5.1.2\AspAlcoTestver.1.0\bin\AspAlcoTestver.1.0.dll
+D:\C#- Warsztaty\AlkoProjekt\AspAlcoTestver.5.1.2\AspAlcoTestver.1.0\bin\AspAlcoTestver.1.0.pdb
+D:\C#- Warsztaty\AlkoProjekt\AspAlcoTestver.5.1.2\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.dll
+D:\C#- Warsztaty\AlkoProjekt\AspAlcoTestver.5.1.2\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.pdb
+D:\C#- Warsztaty\AlkoProjekt\AspAlcoTestver.5.1.2\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.csprojResolveAssemblyReference.cache
+C:\Users\jac\Documents\Visual Studio 2012\Projects\AspAlcoTestver.5.1.3\AspAlcoTestver.1.0\bin\AspAlcoTestver.1.0.dll
+C:\Users\jac\Documents\Visual Studio 2012\Projects\AspAlcoTestver.5.1.3\AspAlcoTestver.1.0\bin\AspAlcoTestver.1.0.pdb
+C:\Users\jac\Documents\Visual Studio 2012\Projects\AspAlcoTestver.5.1.3\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.dll
+C:\Users\jac\Documents\Visual Studio 2012\Projects\AspAlcoTestver.5.1.3\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.pdb
+C:\Users\jac\Documents\Visual Studio 2012\Projects\AspAlcoTestver.5.1.4\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.dll
+C:\Users\jac\Documents\Visual Studio 2012\Projects\AspAlcoTestver.5.1.4\AspAlcoTestver.1.0\bin\AspAlcoTestver.1.0.dll
+C:\Users\jac\Documents\Visual Studio 2012\Projects\AspAlcoTestver.5.1.4\AspAlcoTestver.1.0\bin\AspAlcoTestver.1.0.pdb
+C:\Users\jac\Documents\Visual Studio 2012\Projects\AspAlcoTestver.5.1.4\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.pdb
+C:\Users\jac\Documents\Visual Studio 2012\Projects\AspAlcoTestver.5.2\AspAlcoTestver.1.0\bin\AspAlcoTestver.1.0.dll
+C:\Users\jac\Documents\Visual Studio 2012\Projects\AspAlcoTestver.5.2\AspAlcoTestver.1.0\bin\AspAlcoTestver.1.0.pdb
+C:\Users\jac\Documents\Visual Studio 2012\Projects\AspAlcoTestver.5.2\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.dll
+C:\Users\jac\Documents\Visual Studio 2012\Projects\AspAlcoTestver.5.2\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.pdb
+C:\Users\jac\Documents\Visual Studio 2012\Projects\AspAlcoTestver.5.4.(5.2 )\AspAlcoTestver.1.0\bin\AspAlcoTestver.1.0.dll
+C:\Users\jac\Documents\Visual Studio 2012\Projects\AspAlcoTestver.5.4.(5.2 )\AspAlcoTestver.1.0\bin\AspAlcoTestver.1.0.pdb
+C:\Users\jac\Documents\Visual Studio 2012\Projects\AspAlcoTestver.5.4.(5.2 )\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.dll
+C:\Users\jac\Documents\Visual Studio 2012\Projects\AspAlcoTestver.5.4.(5.2 )\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.pdb
+C:\Users\jac\Documents\Visual Studio 2012\Projects\AspAlcoTestver.5.5 - Kopia\AspAlcoTestver.1.0\bin\AspAlcoTestver.1.0.dll
+C:\Users\jac\Documents\Visual Studio 2012\Projects\AspAlcoTestver.5.5 - Kopia\AspAlcoTestver.1.0\bin\AspAlcoTestver.1.0.pdb
+C:\Users\jac\Documents\Visual Studio 2012\Projects\AspAlcoTestver.5.5 - Kopia\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.dll
+C:\Users\jac\Documents\Visual Studio 2012\Projects\AspAlcoTestver.5.5 - Kopia\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.pdb
+C:\Users\jac\Documents\Visual Studio 2012\Projects\AspAlcoTestver.5.6 - Kopia\AspAlcoTestver.1.0\bin\AspAlcoTestver.1.0.dll
+C:\Users\jac\Documents\Visual Studio 2012\Projects\AspAlcoTestver.5.6 - Kopia\AspAlcoTestver.1.0\bin\AspAlcoTestver.1.0.pdb
+C:\Users\jac\Documents\Visual Studio 2012\Projects\AspAlcoTestver.5.6 - Kopia\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.dll
+C:\Users\jac\Documents\Visual Studio 2012\Projects\AspAlcoTestver.5.6 - Kopia\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.pdb
+C:\Users\jac\Documents\Visual Studio 2012\Projects\AspAlcoTestver.5.7 - Kopia\AspAlcoTestver.1.0\bin\AspAlcoTestver.1.0.dll
+C:\Users\jac\Documents\Visual Studio 2012\Projects\AspAlcoTestver.5.7 - Kopia\AspAlcoTestver.1.0\bin\AspAlcoTestver.1.0.pdb
+C:\Users\jac\Documents\Visual Studio 2012\Projects\AspAlcoTestver.5.7 - Kopia\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.dll
+C:\Users\jac\Documents\Visual Studio 2012\Projects\AspAlcoTestver.5.7 - Kopia\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.pdb
+C:\Users\jac\Documents\Visual Studio 2012\Projects\AspAlcoTestver.5.7 - Kopia\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.csprojResolveAssemblyReference.cache
+D:\C#- Warsztaty\AlkoProjekt\AspAlcoTestver.5.9\AspAlcoTestver.1.0\bin\AspAlcoTestver.1.0.dll
+D:\C#- Warsztaty\AlkoProjekt\AspAlcoTestver.5.9\AspAlcoTestver.1.0\bin\AspAlcoTestver.1.0.pdb
+D:\C#- Warsztaty\AlkoProjekt\AspAlcoTestver.5.9\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.dll
+D:\C#- Warsztaty\AlkoProjekt\AspAlcoTestver.5.9\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.pdb
+D:\C#- Warsztaty\AlkoProjekt\AspAlcoTestver.6.2\AspAlcoTestver.1.0\bin\AspAlcoTestver.1.0.dll
+D:\C#- Warsztaty\AlkoProjekt\AspAlcoTestver.6.2\AspAlcoTestver.1.0\bin\AspAlcoTestver.1.0.pdb
+D:\C#- Warsztaty\AlkoProjekt\AspAlcoTestver.6.2\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.dll
+D:\C#- Warsztaty\AlkoProjekt\AspAlcoTestver.6.2\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.pdb
+F:\AspAlcoTestver.6.2\AspAlcoTestver.1.0\bin\AspAlcoTestver.1.0.dll
+F:\AspAlcoTestver.6.2\AspAlcoTestver.1.0\bin\AspAlcoTestver.1.0.pdb
+F:\AspAlcoTestver.6.2\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.dll
+F:\AspAlcoTestver.6.2\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.pdb
+C:\Users\jac\Desktop\AspAlcoTestver.6.2\AspAlcoTestver.1.0\bin\AspAlcoTestver.1.0.dll
+C:\Users\jac\Desktop\AspAlcoTestver.6.2\AspAlcoTestver.1.0\bin\AspAlcoTestver.1.0.pdb
+C:\Users\jac\Desktop\AspAlcoTestver.6.2\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.dll
+C:\Users\jac\Desktop\AspAlcoTestver.6.2\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.pdb
+C:\Users\jac\Desktop\Nowy folder\AspAlcoTestver.6.3\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.dll
+C:\Users\jac\Desktop\Nowy folder\AspAlcoTestver.6.3\AspAlcoTestver.1.0\bin\AspAlcoTestver.1.0.dll
+C:\Users\jac\Desktop\Nowy folder\AspAlcoTestver.6.3\AspAlcoTestver.1.0\bin\AspAlcoTestver.1.0.pdb
+C:\Users\jac\Desktop\Nowy folder\AspAlcoTestver.6.3\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.pdb
+C:\Users\jac\Desktop\Nowy folder\AspAlcoTestver.6.3\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.csprojResolveAssemblyReference.cache
+C:\Users\jac\Desktop\alcorap\AspAlcoTestver.6.3\AspAlcoTestver.1.0\bin\AspAlcoTestver.1.0.dll
+C:\Users\jac\Desktop\alcorap\AspAlcoTestver.6.3\AspAlcoTestver.1.0\bin\AspAlcoTestver.1.0.pdb
+C:\Users\jac\Desktop\alcorap\AspAlcoTestver.6.3\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.dll
+C:\Users\jac\Desktop\alcorap\AspAlcoTestver.6.3\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.pdb
+C:\Users\jac\Desktop\alcorap\AspAlcoTestver.6.4\AspAlcoTestver.1.0\bin\AspAlcoTestver.1.0.dll
+C:\Users\jac\Desktop\alcorap\AspAlcoTestver.6.4\AspAlcoTestver.1.0\bin\AspAlcoTestver.1.0.pdb
+C:\Users\jac\Desktop\alcorap\AspAlcoTestver.6.4\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.dll
+C:\Users\jac\Desktop\alcorap\AspAlcoTestver.6.4\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.pdb
+C:\Users\jac\Desktop\alcorap\AspAlcoTestver.6.4 - Kopia\AspAlcoTestver.1.0\bin\AspAlcoTestver.1.0.dll
+C:\Users\jac\Desktop\alcorap\AspAlcoTestver.6.4 - Kopia\AspAlcoTestver.1.0\bin\AspAlcoTestver.1.0.pdb
+C:\Users\jac\Desktop\alcorap\AspAlcoTestver.6.4 - Kopia\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.dll
+C:\Users\jac\Desktop\alcorap\AspAlcoTestver.6.4 - Kopia\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.pdb
+C:\Users\jac\Desktop\alcorap\AspAlcoTestver.6.5\AspAlcoTestver.1.0\bin\AspAlcoTestver.1.0.dll
+C:\Users\jac\Desktop\alcorap\AspAlcoTestver.6.5\AspAlcoTestver.1.0\bin\AspAlcoTestver.1.0.pdb
+C:\Users\jac\Desktop\alcorap\AspAlcoTestver.6.5\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.dll
+C:\Users\jac\Desktop\alcorap\AspAlcoTestver.6.5\AspAlcoTestver.1.0\obj\Debug\AspAlcoTestver.1.0.pdb
